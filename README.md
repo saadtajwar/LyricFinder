@@ -1,11 +1,11 @@
-# HeelNewsAggregator
+# LyricFinder
 
 ### Overview
 LyricFinder is a React web application that allows users to see the Top 10 Tracks in the U.S. and view their lyrics as well as the artist, release date, album, and other information about the song. LyricFinder also has a search component which allows for a user to search for any of their favorite songs and view this information!
 
 LyricFinder uses the **[MusixMatch API]** to retrieve the song information!
 
-[GitHub action]: https://developer.musixmatch.com
+[MusixMatch API]: https://developer.musixmatch.com
 
 ## Pictures
 View the Top 10 Tracks in the U.S.!
